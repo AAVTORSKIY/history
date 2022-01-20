@@ -39,8 +39,9 @@ a:visited {
     max-width: 80%;
     margin: auto;
     padding-top: 30px;
-
+    padding-bottom: 500px;
 }
+
 .avatar {
     display: block;
     margin: auto;
